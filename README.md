@@ -1,8 +1,8 @@
-# IT21239298 / README.md
+<!-- GitHub Profile README.md -->
 
 <div align="center">
 
-# Hi 👋, I'm LITHIRA SASMITHA
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm LITHIRA SASMITHA
 
 ### A passionate frontend developer from Sri Lanka
 
@@ -52,40 +52,47 @@
 
 ## My GitHub Stats
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-  <div style="width: 48%; background-color: #0d1117; border-radius: 6px; padding: 15px; box-sizing: border-box;">
-    <h3>LITHIRA SASMITHA's GitHub Stats</h3>
-    <p>⭐ Total Stars Earned: 76</p>
-    <p>🕒 Total Commits (2025): 62</p>
-    <p>🔄 Total PRs: 41</p>
-    <p>❗ Total Issues: 1</p>
-    <p>👨‍💻 Contributed to (last year): 4</p>
-    <div align="center">
-      <div style="width: 100px; height: 100px; border-radius: 50%; display: flex; justify-content: center; align-items: center; font-size: 24px; font-weight: bold; background: conic-gradient(#2ea043 0%, #2ea043 80%, #161b22 80%, #161b22 100%);">
-        B+
-      </div>
+<div align="center" style="display: flex; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lithira-sasmitha&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lithira-sasmitha&theme=dark&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+<div style="background-color: #0d1117; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div>
+      <h3>LITHIRA SASMITHA's GitHub Stats</h3>
+      <p>⭐ Total Stars Earned: 76</p>
+      <p>🕒 Total Commits (2025): 62</p>
+      <p>🔄 Total PRs: 41</p>
+      <p>❗ Total Issues: 1</p>
+      <p>👨‍💻 Contributed to (last year): 4</p>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <img src="https://raw.githubusercontent.com/lithira-sasmitha/lithira-sasmitha/main/assets/grade-b-plus.svg" width="100" height="100" alt="Grade B+" />
     </div>
   </div>
-  
-  <div style="width: 48%; background-color: #0d1117; border-radius: 6px; padding: 15px; box-sizing: border-box;">
-    <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-      <div style="text-align: center;">
-        <h2>694</h2>
-        <p>Total Contributions</p>
-        <small>Feb 7, 2022 - Present</small>
+</div>
+
+<div style="background-color: #0d1117; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center;">
+      <h2>694</h2>
+      <p>Total Contributions</p>
+      <small>Feb 7, 2022 - Present</small>
+    </div>
+    
+    <div style="text-align: center;">
+      <div>
+        <img src="https://raw.githubusercontent.com/lithira-sasmitha/lithira-sasmitha/main/assets/current-streak-0.svg" width="100" height="100" alt="Current Streak: 0" />
       </div>
-      
-      <div style="text-align: center;">
-        <h2>0</h2>
-        <p>Current Streak</p>
-        <small>Apr 13</small>
-      </div>
-      
-      <div style="text-align: center;">
-        <h2>15</h2>
-        <p>Longest Streak</p>
-        <small>Aug 14, 2023 - Aug 28, 2023</small>
-      </div>
+      <p>Current Streak</p>
+      <small>Apr 13</small>
+    </div>
+    
+    <div style="text-align: center;">
+      <h2>15</h2>
+      <p>Longest Streak</p>
+      <small>Aug 14, 2023 - Aug 28, 2023</small>
     </div>
   </div>
 </div>
@@ -93,6 +100,10 @@
 ## Most Used Languages
 
 <div style="background-color: #0d1117; border-radius: 6px; padding: 15px; box-sizing: border-box;">
+  <div align="center" style="margin-bottom: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithira-sasmitha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </div>
+  
   <div style="display: flex; align-items: center; margin-bottom: 8px;">
     <span style="width: 100px;">JavaScript</span>
     <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
@@ -166,3 +177,30 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+<!-- SVG Files for Circular Stats -->
+<!-- You'll need to create these SVG files and place them in a folder named 'assets' in your repo -->
+
+<!-- current-streak-0.svg content -->
+<!--
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="54" stroke="#111" stroke-width="8" fill="none" />
+  <circle cx="60" cy="60" r="54" stroke="#00e5ff" stroke-width="8" stroke-linecap="round" fill="none" 
+    stroke-dasharray="339.29" stroke-dashoffset="339.29" transform="rotate(-90 60 60)">
+    <animate attributeName="stroke-dashoffset" from="339.29" to="339.29" dur="1s" repeatCount="indefinite" />
+  </circle>
+  <text x="60" y="60" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="32" font-weight="bold" font-family="Arial, sans-serif">0</text>
+</svg>
+-->
+
+<!-- grade-b-plus.svg content -->
+<!--
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="54" stroke="#111" stroke-width="8" fill="none" />
+  <circle cx="60" cy="60" r="54" stroke="#2ea043" stroke-width="8" stroke-linecap="round" fill="none" 
+    stroke-dasharray="339.29" stroke-dashoffset="67.86" transform="rotate(-90 60 60)">
+    <animate attributeName="stroke-dashoffset" from="339.29" to="67.86" dur="1.5s" />
+  </circle>
+  <text x="60" y="60" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="28" font-weight="bold" font-family="Arial, sans-serif">B+</text>
+</svg>
+-->

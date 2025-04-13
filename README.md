@@ -80,78 +80,10 @@
       <p>Total Contributions</p>
       <small>Feb 7, 2022 - Present</small>
     </div>
-    
-    <div style="text-align: center;">
-      <div>
-        <img src="https://raw.githubusercontent.com/lithira-sasmitha/lithira-sasmitha/main/assets/current-streak-0.svg" width="100" height="100" alt="Current Streak: 0" />
-      </div>
-      <p>Current Streak</p>
-      <small>Apr 13</small>
-    </div>
-    
-    <div style="text-align: center;">
-      <h2>15</h2>
-      <p>Longest Streak</p>
-      <small>Aug 14, 2023 - Aug 28, 2023</small>
-    </div>
   </div>
 </div>
 
-## Most Used Languages
 
-<div style="background-color: #0d1117; border-radius: 6px; padding: 15px; box-sizing: border-box;">
-  <div align="center" style="margin-bottom: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lithira-sasmitha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <span style="width: 100px;">JavaScript</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 65.48%; height: 100%; background-color: #f1e05a;"></div>
-    </div>
-    <span style="margin-left: 8px;">65.48%</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <span style="width: 100px;">Jupyter</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 11.63%; height: 100%; background-color: #DA5B0B;"></div>
-    </div>
-    <span style="margin-left: 8px;">11.63%</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <span style="width: 100px;">CSS</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 7.80%; height: 100%; background-color: #563d7c;"></div>
-    </div>
-    <span style="margin-left: 8px;">7.80%</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <span style="width: 100px;">Kotlin</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 5.21%; height: 100%; background-color: #A97BFF;"></div>
-    </div>
-    <span style="margin-left: 8px;">5.21%</span>
-  </div>
-  
-  <div style="display: flex; align-items: center; margin-bottom: 8px;">
-    <span style="width: 100px;">Java</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 5.12%; height: 100%; background-color: #b07219;"></div>
-    </div>
-    <span style="margin-left: 8px;">5.12%</span>
-  </div>
-  
-  <div style="display: flex; align-items: center;">
-    <span style="width: 100px;">PHP</span>
-    <div style="flex-grow: 1; height: 12px; background-color: #333; border-radius: 4px; overflow: hidden;">
-      <div style="width: 4.77%; height: 100%; background-color: #4F5D95;"></div>
-    </div>
-    <span style="margin-left: 8px;">4.77%</span>
-  </div>
-</div>
 
 ## Languages and Tools:
 
@@ -178,29 +110,4 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
-<!-- SVG Files for Circular Stats -->
-<!-- You'll need to create these SVG files and place them in a folder named 'assets' in your repo -->
 
-<!-- current-streak-0.svg content -->
-<!--
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="60" cy="60" r="54" stroke="#111" stroke-width="8" fill="none" />
-  <circle cx="60" cy="60" r="54" stroke="#00e5ff" stroke-width="8" stroke-linecap="round" fill="none" 
-    stroke-dasharray="339.29" stroke-dashoffset="339.29" transform="rotate(-90 60 60)">
-    <animate attributeName="stroke-dashoffset" from="339.29" to="339.29" dur="1s" repeatCount="indefinite" />
-  </circle>
-  <text x="60" y="60" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="32" font-weight="bold" font-family="Arial, sans-serif">0</text>
-</svg>
--->
-
-<!-- grade-b-plus.svg content -->
-<!--
-<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="60" cy="60" r="54" stroke="#111" stroke-width="8" fill="none" />
-  <circle cx="60" cy="60" r="54" stroke="#2ea043" stroke-width="8" stroke-linecap="round" fill="none" 
-    stroke-dasharray="339.29" stroke-dashoffset="67.86" transform="rotate(-90 60 60)">
-    <animate attributeName="stroke-dashoffset" from="339.29" to="67.86" dur="1.5s" />
-  </circle>
-  <text x="60" y="60" text-anchor="middle" dominant-baseline="middle" fill="white" font-size="28" font-weight="bold" font-family="Arial, sans-serif">B+</text>
-</svg>
--->

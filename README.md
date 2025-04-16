@@ -14,16 +14,7 @@
 
 </div>
 
-<div align="center">
-  
-  • • •
-  
-</div>
 
-<div align="left">
-  <span>Profile views:</span>
-  <span style="background-color: #1f6feb; color: white; padding: 3px 8px; border-radius: 4px;">1,497</span>
-</div>
 
 ## About Me
 

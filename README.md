@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Next Js**
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 - 📫 How to reach me **lithirasasmitha@gmail.com**
--  ⚡ Fun fact **Call me as Tinu**
+-  ⚡ Fun fact **Call me as Sasmitha**
   
  </td>
 <td width="100%" align="left">

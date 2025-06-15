@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anjana Tinush</h1>
+<h1 align="center">Hi 👋, I'm Lithira Sasmitha</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjanatinush&label=Profile%20views&color=0e75b6&style=flat" alt="anjanatinush" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lithirasasmitha&label=Profile%20views&color=0e75b6&style=flat" alt="lithirasasmitha" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 📫 How to reach me **anjanatinush222@gmail.com**
+- 📫 How to reach me **lithirasasmitha@gmail.com**
 -  ⚡ Fun fact **Call me as Tinu**
   
  </td>
@@ -31,13 +31,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AnjanaTinush&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lithirasasmitha&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjanaTinush&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lithirasasmitha&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnjanaTinush&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lithirasasmitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>

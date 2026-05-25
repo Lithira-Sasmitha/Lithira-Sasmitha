@@ -98,19 +98,6 @@ Status   : Open to Collaborate 🤝
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -130,29 +117,6 @@ Status   : Open to Collaborate 🤝
 
 ---
 
-## 💬 Dev Quote
-
-<div align="center">
-
-[![readme-jokes](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)](https://github.com/ABSphreak/readme-jokes)
-
-<br/>
-
-> _"First, solve the problem. Then, write the code."_ — **John Johnson**
-
-<br/>
-
-![badge](https://img.shields.io/badge/Code-Dream-00d4ff?style=flat-square&labelColor=0d1117)
-&nbsp;
-![badge](https://img.shields.io/badge/Build-Ship-a855f7?style=flat-square&labelColor=0d1117)
-&nbsp;
-![badge](https://img.shields.io/badge/Learn-Grow-ff6e6e?style=flat-square&labelColor=0d1117)
-&nbsp;
-![badge](https://img.shields.io/badge/Repeat-Always-22c55e?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
 
 <div align="center">
 

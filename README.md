@@ -1,56 +1,265 @@
-<h1 align="center">Hi 👋, I'm Lithira Sasmitha</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lithirasasmitha&label=Profile%20views&color=0e75b6&style=flat" alt="lithirasasmitha" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="100%" align="left">
-
-- 🌱 I’m currently learning **Next Js**
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 📫 How to reach me **lithirasasmitha@gmail.com**
--  ⚡ Fun fact **Call me as Sasmitha**
-  
- </td>
-<td width="100%" align="left">
-   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+<div align="center">
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ANIMATED HEADER BANNER                          -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=Hi+%F0%9F%91%8B%2C+I'm+Lithira+Sasmitha;Creative+Full+Stack+Developer;React+%7C+Node.js+%7C+MERN+Stack+%7C+Three.js)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Lithira-Sasmitha&label=👁️%20Profile%20Views&color=0d1117&style=for-the-badge&labelColor=00D4FF" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Lithira-Sasmitha?label=Followers&style=for-the-badge&color=0d1117&labelColor=a855f7&logo=github" alt="Followers"/>
+</div>
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                            HERO GIF + TAGLINE                            -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<br/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" width="55%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Coding animation"/>
+</td>
+<td align="center" width="45%">
+<br/>
+```
+╔═══════════════════════════════╗
+║  > SYSTEM BOOT...             ║
+║  > LOADING PROFILE...  ████   ║
+║  > STACK: MERN + NEXT.JS      ║
+║  > STATUS: BUILDING THE WEB   ║
+║  > LOCATION: SRI LANKA 🇱🇰   ║
+║  > ALIAS: SASMITHA            ║
+╚═══════════════════════════════╝
+```
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=A855F7&center=true&vCenter=true&width=340&lines=Full+Stack+Dev+%F0%9F%9A%80;MERN+Stack+Engineer+%E2%9A%A1;Always+Learning+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
 </td>
 </tr>
 </table>
-
-
 ---
-
-  
-
-
-<h3 align="center">My Statistics</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Lithira-Sasmitha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithira-Sasmitha&theme=dark&hide_border=false" /> 
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME SECTION                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+## ⚡ `< ABOUT ME />`
+</div>
+<br/>
+<table align="center" border="0">
+<tr>
+<td>
+|
+ 🧬 Attribute 
+|
+ 💡 Value 
+|
+|
+---
+|
+---
+|
+|
+ 🌱 
+**
+Learning
+**
+|
+`Next.js`
+ — Deep diving into App Router & SSR 
+|
+|
+ 🎓 
+**
+Education
+**
+|
+ Undergraduate @ 
+**
+SLIIT
+**
+ — Sri Lanka 
+|
+|
+ 💻 
+**
+Role
+**
+|
+ Passionate 
+**
+Full Stack Developer
+**
+|
+|
+ 🔭 
+**
+Focus
+**
+|
+ MERN Stack · REST APIs · Modern UI/UX 
+|
+|
+ ⚡ 
+**
+Fun Fact
+**
+|
+ Call me 
+**
+Sasmitha
+**
+ 😄 
+|
+|
+ 📫 
+**
+Email
+**
+|
+`lithirasasmitha@gmail.com`
+|
+|
+ 🌏 
+**
+Location
+**
+|
+ Sri Lanka 🇱🇰 
+|
+|
+ 🎯 
+**
+Goal
+**
+|
+ Build impactful digital experiences 
+|
 </td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lithira-Sasmitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
-
+<br/>
+<div align="center">
+![Quote](https://img.shields.io/badge/Code.-Dream.-Build.-Repeat.-00D4FF?style=for-the-badge&labelColor=0d1117&color=a855f7)
+</div>
 ---
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="www.linkedin.com/in/lithira-sasmitha-9182382a6" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a
-<a href="https://fb.com/lithira sasmitha" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /> </a>
-<a href="https://instagram.com/lithira_sasmitha" target="blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /> </a>
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK SECTION                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 🛸 `< TECH STACK />`
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,threejs&theme=dark&perline=9" alt="Frontend Skills"/>
 </p>
-<hr/>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/>  </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a>  </p>
+### ⚙️ Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,mongodb,mysql&theme=dark&perline=7" alt="Backend Skills"/>
+</p>
+### 📱 Mobile & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postman,vscode&theme=dark&perline=6" alt="Tools"/>
+</p>
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS SECTION                            -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 📊 `< GITHUB STATS />`
+<br/>
+<table border="0" cellpadding="6">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Lithira-Sasmitha&show_icons=true&theme=tokyonight&border_color=00D4FF&bg_color=0d1117&title_color=00D4FF&icon_color=a855f7&text_color=ffffff&count_private=true&rank_icon=github&hide_border=false" alt="GitHub Stats" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithira-Sasmitha&theme=tokyonight&border_color=a855f7&bg_color=0d1117&title_color=a855f7&text_color=ffffff&layout=donut&langs_count=8&hide_border=false" alt="Top Languages" width="100%"/>
+</td>
+</tr>
+</table>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lithira-Sasmitha&theme=tokyonight-duo&border=00D4FF&background=0d1117&stroke=a855f7&ring=00D4FF&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=a855f7&dates=888888" alt="GitHub Streak" width="70%"/>
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithira-Sasmitha&theme=tokyo-night&bg_color=0d1117&color=00D4FF&line=a855f7&point=ffffff&area=true&area_color=00D4FF&hide_border=false" alt="Activity Graph" width="95%"/>
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTION SNAKE ANIMATION                      -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 🐍 `< CONTRIBUTION SNAKE />`
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Lithira-Sasmitha/Lithira-Sasmitha/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+> 💡 **Setup Note:** Generate your own snake animation with [this GitHub Action](https://github.com/Platane/snk) and push it to your profile repo!
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          CONNECT WITH ME SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 🌐 `< CONNECT WITH ME />`
+<br/>
+<a href="https://www.linkedin.com/in/lithira-sasmitha-9182382a6" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Lithira-Sasmitha" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=00D4FF&color=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/lithira_sasmitha" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://fb.com/lithira.sasmitha" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="mailto:lithirasasmitha@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+</a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="divider animation"/>
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          DEVELOPER QUOTE SECTION                         -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 💬 `< DEV PHILOSOPHY />`
+<br/>
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/>
+> ```
+> ⠀⠀⣿⣿ "Any fool can write code that a computer can understand.
+> ⠀⠀⣿⣿  Good programmers write code that humans can understand."
+> ⠀⠀⠛⠛                                          — Martin Fowler
+> ```
+<br/>
+![Wave](https://img.shields.io/badge/Keep%20Pushing%20Forward-0d1117?style=for-the-badge&labelColor=a855f7&color=0d1117)
+![Wave](https://img.shields.io/badge/Never%20Stop%20Learning-0d1117?style=for-the-badge&labelColor=00D4FF&color=0d1117)
+![Wave](https://img.shields.io/badge/Code%20With%20Purpose-0d1117?style=for-the-badge&labelColor=ff6e6e&color=0d1117)
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                           TROPHIES SECTION                               -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+## 🏆 `< GITHUB TROPHIES />`
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lithira-Sasmitha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" width="100%"/>
+</div>
+---
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                           ANIMATED FOOTER                                -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Thanks animation"/>
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting!+✨;Let's+build+something+amazing+together!;Always+open+to+collaborate+🚀)](https://git.io/typing-svg)
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=&animation=twinkling" width="100%"/>
+</div>
